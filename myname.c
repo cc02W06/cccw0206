@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("蠟筆小新");
+    printf("蠟筆小新\n");
 }
